@@ -1,6 +1,6 @@
 # Modelo de Portifólio
 
-#### [link do site no ar] (https://marcosfmd.github.io/model-portfolio/)
+#### link do site no ar [https://marcosfmd.github.io/model-portfolio/]
 
 #### Desenvolvido com HTML e CSS
 
